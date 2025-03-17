@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+I'm Yufeng(Felix) Xu, a student at NYUSH 26' majoring in Computer Science & minoring in Mathematics. I'm also an NLP & CV researcher at NYU.
+- 🔭 I’m currently working on a research project on Efficient LLMs.
+- 👯 Besides, I'm contributing to [Huggingface Transformers](https://github.com/huggingface/transformers), and I wish I could be an official contributor some day.
+- 📫 The best way to reach me is by [email](mailto:yx3038@nyu.edu).
 <!--
 **Zephyr271828/Zephyr271828** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
