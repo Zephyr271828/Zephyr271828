@@ -18,3 +18,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Stats
+
+<!-- <img alt="summary-card" src="https://github-readme-stats.vercel.app/api?username=Zephyr271828&show_icons=true&theme=tokyonight" style="width:80%"/> -->
+
+<img alt="summary-card" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Zephyr271828&theme=tokyonight" style="width:80%"/>
+
+<!-- <img alt="summary-card" src="https://github-readme-streak-stats.herokuapp.com/?user=Zephyr271828&theme=tokyonight" style="width:80%"/> -->
+
