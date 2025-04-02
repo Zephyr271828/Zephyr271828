@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 I'm Yufeng(Felix) Xu, a student at NYUSH 26' majoring in Computer Science & minoring in Mathematics. I'm also an NLP & CV researcher at NYU.
-- 🔭 I’m currently working on a research project on Efficient LLMs.
+- 🔭 I’m currently working on research projects on Efficient NLP.
 - 👯 Besides, I'm contributing to [Huggingface Transformers](https://github.com/huggingface/transformers), and I wish I could be an official contributor some day.
 - 📫 The best way to reach me is by [email](mailto:yx3038@nyu.edu).
 <!--
