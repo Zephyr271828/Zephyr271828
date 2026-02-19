@@ -1,9 +1,13 @@
 ## Hi there 👋
 
-I'm Yufeng(Felix) Xu, a student at NYUSH 26' majoring in Computer Science & minoring in Mathematics. I'm also an NLP & DL researcher at NYU.
-- 🔭 I’m currently working on research projects on Efficient NLP.
-- 👯 Besides, I'm contributing to [Huggingface Transformers](https://github.com/huggingface/transformers), and I wish I could be an official contributor some day.
+I'm Yufeng(Felix) Xu, a student at NYUSH 26' majoring in Computer Science & minoring in Mathematics. I'm interested in NLP, MLSys, and Deep Learning.
+- 🔭 During my undergrad study, I've worked on network pruning, pretraining, RL for LLMs, and spec decoding for DLMs.
+- 👯 Besides, I enjoy contributing to open source projects. I have contributed to [transformers](https://github.com/huggingface/transformers), [lm-eval-harness](https://github.com/EleutherAI/lm-evaluation-harness), [maxtext](https://github.com/AI-Hypercomputer/maxtext), and [fms](https://github.com/foundation-model-stack/foundation-model-stack).
 - 📫 The best way to reach me is by [email](mailto:yx3038@nyu.edu).
+<!--
+# - 👯 Besides, I'm contributing to [Huggingface Transformers](https://github.com/huggingface/transformers), and I wish I could be an official contributor some day.
+-->
+
 <!--
 **Zephyr271828/Zephyr271828** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
